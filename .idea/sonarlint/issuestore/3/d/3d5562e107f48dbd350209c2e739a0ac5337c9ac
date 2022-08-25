@@ -1,0 +1,11 @@
+
+`	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(Êª«Ûûÿÿÿÿ
+O	java:S899.":Do something with the "boolean" value returned by "await".(üÍ§­
+|
+java:S3457A"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ÉÛÜ¸ùÿÿÿÿ
+|
+java:S3457J"aNo need to call "toString()" method as formatting and string conversion is done by the Formatter.(ÉÛÜ¸ùÿÿÿÿ
+:
+java:S2629@"$Invoke method(s) only conditionally.(ÓËá¶
+?
+java:S2629I"$Invoke method(s) only conditionally.(Óèİãùÿÿÿÿ
