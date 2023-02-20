@@ -1,2 +1,2 @@
 # spring-boot-kafka
-Intro to Apache Kafka with Spring Boot
+Introduction to Apache Kafka with Spring Boot
